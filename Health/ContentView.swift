@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var manager : HealthManager
     var body: some View {
         VStack {
             Image(systemName: "globe")

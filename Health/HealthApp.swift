@@ -6,12 +6,44 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct HealthApp: App {
+    
+    
+    
+    
+    
+    
+    @StateObject var manager = HealthManager()
+    
+    var sharedModelContainer : ModelContainer = {
+        let schema = Schema([
+            Micro.self,
+            UserCalories.self
+        ])
+        
+        let modelConfiguration = ModelConfiguration(schema : schema, isStoredInMemoryOnly: false)
+        
+        do{
+            return try ModelContainer(for: schema, configurations: [modelConfiguration])
+        }
+        catch{
+            fatalError("Could not find : \(error)")
+        }
+    }()
+    
+
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            beActiveTabView()
+                .environmentObject(manager)
+                .modelContainer(sharedModelContainer)
+                
         }
+       
     }
 }
+
