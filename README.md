@@ -1,5 +1,8 @@
 # HealthSync Food and Health Tracking Application
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPoi0fALopQqvBEMq6A4-EETjJ_WjVhycJg&s" width="100"/>
+
+
 <img src="https://github.com/user-attachments/assets/93b84f10-0e62-406f-977f-9d86319d96ac" width="300" style="padding-right: 200px;"/>
 
 
