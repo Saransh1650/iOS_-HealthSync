@@ -1,8 +1,14 @@
 # HealthSync Food and Health Tracking Application
+<div style="display: flex; justify-content: space-between;">
+<img src="https://camo.githubusercontent.com/00e2c707cc0c6569b30af7e10c4d00a06fcdbef69d1293a7495a24100e22dda7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73776966742f73776966742d69636f6e2e737667" width="100"/>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPoi0fALopQqvBEMq6A4-EETjJ_WjVhycJg&s" width="100"/>
+<img src="https://github.com/user-attachments/assets/90ccce56-3f11-4c75-af26-3b5b22e1e1f5" width="100"/>
+
+<img src="https://github.com/user-attachments/assets/de4be351-2894-45d4-9995-8d42d5a032a6" width="100"/>
 
 
+
+</div>
 <img src="https://github.com/user-attachments/assets/93b84f10-0e62-406f-977f-9d86319d96ac" width="300" style="padding-right: 200px;"/>
 
 
