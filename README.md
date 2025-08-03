@@ -12,7 +12,11 @@
 
 
 </div>
-<img src="https://github.com/user-attachments/assets/93b84f10-0e62-406f-977f-9d86319d96ac" width="270" style="padding-right: 200px;"/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif" width="40" alt="Loading..." />
+  <br/>
+  <img src="https://github.com/user-attachments/assets/93b84f10-0e62-406f-977f-9d86319d96ac" width="270"/>
+</p>
 
 
 <img src="https://github.com/user-attachments/assets/6b721516-f3f3-4bcd-8209-437845dec6e4" width="270"/>
